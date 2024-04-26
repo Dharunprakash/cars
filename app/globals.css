@@ -18,10 +18,6 @@ body {
 .flexCenter {
   @apply flex justify-center items-center;
 }
-.flexEnd {
-  @apply flex justify-end items-end;
-}
-
 
 .flexBetween {
   @apply flex justify-between items-center;
