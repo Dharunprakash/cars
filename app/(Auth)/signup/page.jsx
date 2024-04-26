@@ -1,13 +1,11 @@
-"use client";
-import LoginForm from "@/components/signinform";
-
 import React from "react";
+import RegisterForm from "@/components/signinform";
 
 function page() {
   return (
     <div>
       <div className="flex justify-center items-center h-screen ">
-        <LoginForm />
+        <RegisterForm />
       </div>
     </div>
   );

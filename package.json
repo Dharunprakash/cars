@@ -17,13 +17,10 @@
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
     "@uploadthing/react": "^6.5.0",
-<<<<<<< HEAD
-=======
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
->>>>>>> 74808d758c9de7b7de8b7018b8bf4b3546d3e908
     "lucide-react": "^0.373.0",
     "next": "14.2.3",
     "next-auth": "^5.0.0-beta.5",
